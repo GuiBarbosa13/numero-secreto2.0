@@ -1,5 +1,5 @@
 let sorteados = []
-let numMax = 1000
+let numMax = 100
 let chuteUser = document.querySelector(".container__input")
 let numSecreto = gerarNumSecreto(numMax)
 let numTent = 1
